@@ -60,6 +60,6 @@
     "dist"
   ],
   "dependencies": {
-    "three": "0.123.0"
+    "three": "^0.123.0"
   }
 }
